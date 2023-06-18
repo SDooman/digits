@@ -1,4 +1,4 @@
-object Digit {
+object Digits {
 
     fun solve(target: Int, numbers: Set<Int>) = solveInternal(target = target, numbers = numbers)
 
